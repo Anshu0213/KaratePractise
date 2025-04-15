@@ -1,2 +1,2 @@
 # KaratePractise
-Using maven project learning to test using karate
+Using maven project for practising karate test framework.
